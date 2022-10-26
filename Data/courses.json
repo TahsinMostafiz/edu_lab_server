@@ -1,0 +1,257 @@
+[
+    {
+        "_id": "6359a33b70bce209c05f7aaf",
+        "category_id": "01",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "total_student": 488,
+        "title": "Web development",
+        "price" : 5500,
+        "consultant": {
+          "name": "jhankar Mahbub",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1666819210~exp=1666819810~hmac=5af2192172459a382307375c8857012a4f73d403e2f40aa119b1ab447594284d",
+        "details": "Web development is the process of making the information stored on the web server as a website through the Internet and making it usable. So as long as there are websites, there will be demand for web development. That is why the scope of work of web developers is increasing day by day.That is why our course is designed with updated modules. Everything from basic SQL to building professional skills is covered here. By doing practical projects you can learn fast and build a smart portfolio during the course. And if you complete the course properly, you will get the course completion certificate. So start your web development career with Edu Lab modern and world class modules and experienced trainers."
+      },
+      {
+        "_id": "6359a33b86379aaef2d8a1e9",
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_student": 5000,
+        "title": "Mern Stack Development",
+        "price" : 15500,
+        "consultant": {
+          "name": "jhankar Mahbub",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp8903914.jpg",
+        "details": "In computer software and application development, a full-stack developer is a person who has the skills to manage, project plan, and develop front-end, back-end, and software code. So our course is designed in such a way that after completing the course you can work as a web designer, web developer, app developer, backend developer or even a stack developer. From developing the concept to the necessary coding and database, we have everything in this course. Edu Lab has friendly mentors to ease the difficult journey of your Mern Stack. Opt for the Certified MERN Stack Development Course to build a career with the times."
+      },
+      {
+        "_id": "6359a33b1aa8c04ae3f143de",
+        "category_id": "01",
+        "rating": { "number": 4.7, "badge": "Excellent" },
+        "total_student": 2500,
+        "title": "App development",
+        "price" : 12000,
+        "consultant": {
+            "name": "jhankar Mahbub",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://wallpapercave.com/wp/wp6351120.jpg",
+        "details": "App development is the process of creating applications for use on mobile devices. Among the careers that are in demand in the new era, Android app development tops the list. That's why our courses are designed in such a way that you can learn app development with us from scratch. Here you will get a good idea about components with packages from elementary language. Moreover, students will build a good portfolio before completing the project based Android app development course. So you can get a good start in your career quickly. So if you have a unique app idea, then you can easily create a good Android app by taking this course."
+      },
+      {
+        "_id": "6359a33b2e268c0ae451793a",
+        "category_id": "01",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "total_student": 1200,
+        "title": "Python Machine Learning",
+        "price" : 30000,
+        "consultant": {
+          "name": "jhankar Mahbub",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://wallpapercave.com/wp/wp9890998.jpg",
+        "details": "How to train a machine to do a task is the basic concept of machine learning. So in our course you will learn how to use any algorithm and library. Moreover, you will learn everything from Python basics to logic development from here. Machine learning skills are at the top of the required IT skills in today's era. Machine learning has a lot of career potential in the near future. Currently, the demand for machine learning engineers is increasing in large technology organizations as well as in general organizations. Various organizations are encouraging to use the various information of the organization to get the necessary benefits from it. So if you want to work in machine learning, then machine learning course can be your best career choice."
+      },
+      {
+        "_id": "6359a33b4e994325b3b2ef89",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_student": 2200,
+        "title": "Cisco CCNA",
+        "price" : 15000,
+        "consultant": {
+          "name": "Steve Matt",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/1/5c653b1536e2d-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/wp/wp5574710.jpg",
+        "details": "CCNA is primarily a training course for those who are interested in working with computer networks or who want to pursue a career in the networking sector. Working in the networking industry, having a CCNA certification means that one is suitable for any entry-level job in the sector. So Edu Lab CCNA certification will help lay the foundation of your IT career. CCNA is a step-by-step pathway to Cisco's other certifications. The course is designed in such a way that you can learn everything from the basics of networking to advanced with subnetting, routers. By completing this certified course with a skilled mentor, you will be ahead of others in the field of work. So enroll in Cisco CCNA course today to open the doors of possibilities in your IT career."
+      },
+      {
+        "_id": "6359a33bdef2293f3e8eee58",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_student": 1200,
+        "title": "CompTIA Networks",
+        "price" : 15000,
+        "consultant": {
+          "name": "Steve Matt",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/1/5c653b1536e2d-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/wp/wp6273123.jpg",
+        "details": "The first characteristic of a CompTIA A+ certified person is that he is a problem solver. It is a great indicator of the competence and skills of a network expert. And in the job or work, the certificate holders get priority. In this way, career success comes quickly.That's why there is no substitute for CompTIA A+ courses to launch an IT career in the digital world. So in this course we teach both hardware and software aspects of networking. Moreover, our skilled mentors will always provide guidance on security and other aspects for all types of operating systems. By completing the course, you will be able to work as a networking professional in any organization from IT setup to its operation and maintenance more efficiently."
+      },
+      {
+        "_id": "6359a33b8242c45eede7a856",
+        "category_id": "03",
+        "rating": { "number": 4.7, "badge": "Excellent" },
+        "total_student": 7500,
+        "title": "Cyber security",
+        "price" : 20000,
+        "consultant": {
+          "name": "Steve Matt",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/1/5c653b1536e2d-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp2691423.jpg",
+        "details": "Our course is designed in such a way that you learn the ins and outs of cyber security from scratch. Even if you are from non-technical background, you can easily do this course if you have interest. From the basics of network scanning to trendy topics like cryptography, you can learn from this course. Moreover, you can learn the details of amazing things like system hacking, web or mobile platform hacking with various tools and techniques from the course. And if the course is completed properly, the certificate remains.We are ready to accompany you on your cyber career journey with experienced mentors and modern labs, are you coming?"
+      },
+      {
+        "_id": "6359a33b344edc202ecd6c6e",
+        "category_id": "04",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 10500,
+        "title": "Graphic design",
+        "price" : 25000,
+        "consultant": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp2393304.jpg",
+        "details": "Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course, you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Besides, you get the opportunity to use modern lab for project based work. By completing the course this way, you will have practical work experience, which will help you to achieve quick success in the marketplace.So why the delay? Choose Edu Lab Graphic Design course today to enroll in a certified course in graphic design."
+      },
+      {
+        "_id": "6359a33b4857fc809a93e8cb",
+        "category_id": "04",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 1500,
+        "title": "Motion graphics",
+        "price" : 25000,
+        "consultant": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp8064060.jpg",
+        "details": "Elements of graphic design are presented in motion graphics through film or video production. For example, a motion graphics designer makes the short broadcasting video before the news broadcast on any TV channel. So our graphic design course is structured from the basics of graphic design. From this course you can learn 2D and 3D Motion Graphics; Through which you can easily create any social media ad. Moreover, you will learn the details of video editing, which will be helpful for you in making any commercial video. And the details of the animation are there.Don't have a computer with the necessary configuration for motion graphics? At Edu Lab you can come to our lab anytime during the course to practice class work."
+      },
+      {
+        "_id": "6359a33b8e27c11fb80c60b3",
+        "category_id": "04",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 2500,
+        "title": "UX/UI design",
+        "price" : 20000,
+        "consultant": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?w=1380&t=st=1666821860~exp=1666822460~hmac=357a676e43b250fe12a46e15ed00a54a324c9b84d8a45b5cd91016e341a55567",
+        "details": "Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary.So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course. Moreover, by completing the course projects, you can create your portfolio at the end of the course from the class itself. This portfolio will be the milestone of your skills at the beginning of your career."
+      },
+      {
+        "_id": "6359a33b62079cc913560d41",
+        "category_id": "05",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 7500,
+        "title": "Digital Marketing",
+        "price" : 20000,
+        "consultant": {
+            "name": "Jenny Smith",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/9/5c5153b9428b8-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp3950076.jpg",
+        "details": "To be an efficient digital marketer you need to be well versed in digital platforms. And for that, everything you need to know is in our course. From Basic Keyword Research (Keywords Research) and Competitor Analysis (Competitor Analysis) to SEO (SEO), Social Media Marketing (Social Media Marketing), Affiliate Marketing (Affiliate Marketing) details are all there in our digital marketing course. Nowadays there are numerous e-commerce sites on the internet. It is necessary to know the right technique to bring in search engine ranking like various service pages. That's why e-commerce SEO (eCommerce SEO) and Service Page SEO (Service Page SEO) are included in our course. So our digital marketing course can be your best choice to develop skills in online marketing techniques."
+      },
+      {
+        "_id": "6359a33b40dfd42ce112da53",
+        "category_id": "05",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 500,
+        "title": "Search engine optimization (SEO)",
+        "price" : 15000,
+        "consultant": {
+            "name": "Jenny Smith",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/9/5c5153b9428b8-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp10541182.jpg",
+        "details": "According to a survey, most businesses spend more than $5,000 per month on SEO alone. Because by SEO every page of any website is brought to the first place of search results in different search engines based on specific keywords. So the success of your blog site, website or video channel depends on proper SEO. By learning SEO, you can earn good income in addition to freelancing in the freelance marketplace.Our course gives practical working concepts of SEO from basic to professional level. So by doing the course you will know about different ways to rank in search engines including on-page SEO, off-page SEO. The most important aspect of SEO is the article or content. The course will give you an idea about SEO friendly content. Along with this, you will get real work experience by completing the course project."
+      },
+      {
+        "_id": "6359a33bef4cf62f7cc84752",
+        "category_id": "05",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 500,
+        "title": "Affiliate Marketing",
+        "price" : 10000,
+        "consultant": {
+            "name": "Jenny Smith",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://elearni.wpenginepowered.com/wp-content/uploads/avatars/9/5c5153b9428b8-bpfull.jpg"
+        },
+        "image_url": "https://wallpapercave.com/wp/wp8514241.jpg",
+        "details": "There are over 11,500 affiliate programs in America alone. An affiliate marketer can earn commission by selling products or services by joining the program of his choice. This commission ranges from around 5% to 30% depending on the category and company.Our affiliate marketing course will help you increase sales and understand marketing strategies. Also, you can learn everything in detail about how to choose the right topic for you and create a website from this course. Moreover, you will get an idea about the market trends from the research process in the course. The most important thing is that you will get the guidance of skilled mentors here. So Edu Lab doors are always open for you to become a successful affiliate marketer."
+      },
+      {
+        "_id": "6359a33bf4e4a69e47e39ade",
+        "category_id": "06",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 1500,
+        "title": "Amazon Web Services (AWS)",
+        "price" : 30000,
+        "consultant": {
+            "name": "jhankar Mahbub",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp10474416.png",
+        "details": "Amazon Web Services is called all-in-one. All kinds of tools or services required for business are prepared in it. Here you will find more than 200 services including database, storage, virtual computer. So there is no hassle of setting up a server for your company. Amazon Web Services is now a popular name worldwide for its easy login, low cost hosting and tools. That's why our AWS courses have everything from the very basics to hands-on learning. As a result, you can start a career as an AWS developer even if you don't have any prior knowledge. But for that you need to know basic coding of Linux and Python."
+      },
+      {
+        "_id": "6359a33b7a486f2ac404ef97",
+        "category_id": "06",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 500,
+        "title": "Blockchain technology",
+        "price" : 25000,
+        "consultant": {
+            "name": "jhankar Mahbub",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://qph.cf2.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp2337029.jpg",
+        "details": "As blockchain is a very secure and fast technology, the use of this new technology is increasing day by day in various public and private sectors including banking, commerce, healthcare, insurance, industry. Blockchain technology is expected to do the same in the way that Bitcoin has greatly impacted the current economy. So with the rise in popularity of cryptocurrencies, the use of blockchain systems is increasing, especially in the banking sector. Besides, numerous startup companies are entering blockchain technology with new ideas. Blockchain is currently a promising sector for career development. If you can acquire skills in this new technology, then there is no dearth of jobs in the job sector. Our course has been developed keeping in mind the needs of the times. Networks, Decentralized Application, Cryptographic Security will be taught in each subject course. Starting from the basics, every topic is taught by hand. Besides, the course has the opportunity of practical classes. So do not delay and secure your career in this new technology sector by enrolling today."
+      },
+      {
+        "_id": "6359a33b20e507ef80395093",
+        "category_id": "07",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 2500,
+        "title": "Professional 3D Animation",
+        "price" : 25000,
+        "consultant": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://wallpapercave.com/wp/e0tgsTC.jpg",
+        "details": "3D animation is when an animation is converted into 3D. As a 3D animator, your job is to create 3D animations and graphics for various digital applications, including videos, movies, and games, through software. That's why our course has various interesting topics from designing storyboards to character modeling and product modeling. You will get a clear idea about the basic costs of rendering and editing or lighting from this certified course. So if you know animation work well, there will be more chances to advance in your career. As there is a lot of demand, you can choose international or local market as the field of work in this sector."
+      },
+      {
+        "_id": "6359a33b7f416c4680b0b0d6",
+        "category_id": "07",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "total_student": 700,
+        "title": "Interior and exterior design",
+        "price" : 25000,
+        "consultant": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://wallpapercave.com/dwp1x/wp11265298.jpg",
+        "details": "Making use of every space through the proper use of furniture, lights, furnishings to present a home, office or any institution in a comfortable and aesthetic way is called interior design. And when the outside environment is planned or designed, it is exterior design. Interior and exterior design in the modern era is a combination of art and technology.So our interior & exterior design course covers everything from basic sketch up to restaurant or duplex house design. Moreover, this course will introduce you to some useful tools that will help you stay updated in this sector. Therefore, you can learn to build your own career in this technology-dependent, contemporary and creative profession of interior & exterior design."
+      }
+]
